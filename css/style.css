@@ -40,6 +40,13 @@ nav ul li a {
     float: left;
     width: 75vw;
 }
+#main-acerde {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1%;
+    padding-left: 10vw;
+    width: 75vw;
+}
 
 section {
     margin-bottom: 2vh;
@@ -129,7 +136,6 @@ aside h2{
 }
 hr {
     color: #333;
-    
 }
 
 footer {
@@ -140,5 +146,14 @@ footer {
     bottom: 0;
     width: 100vw;
     width: 75vw;
+    border-radius: 5px;
 }
-    
+#footer-acerde {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1%;
+    bottom: 0;
+    width: 42vw;
+    border-radius: 5px;
+}
